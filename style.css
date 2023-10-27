@@ -35,3 +35,14 @@ h2 {
     text-align: center;
     background-color: cadetblue;
 }
+
+.botao-recarregar {
+    display: block; /* Para que o botão ocupe toda a largura disponível */
+    margin: 0 auto; /* Centraliza o botão horizontalmente */
+    margin-top: 20px;
+    padding: 10px 20px; /* Adiciona preenchimento interno ao botão */
+    border: 2px solid whitesmoke; /* Adiciona uma borda sólida de 2px com cor #333 */
+    background-color: cadetblue; /* Define a cor de fundo como CADETblue */
+    color: #fff; /* Define a cor do texto como branco */
+    cursor: pointer; /* Transforma o cursor em uma mãozinha quando hover */
+}
