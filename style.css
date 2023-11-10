@@ -1,7 +1,7 @@
 body {
     font-family: "Open Sans";
-    color: #fff;
-    background-color: #e40e0e;
+    color: aquamarine;
+    background-color: mediumpurple;
 }
 
 h2 {
@@ -14,7 +14,7 @@ h2 {
     max-width: 240px;
     padding: 20px;
     border-radius: 10px;
-    background-color: rgb(142, 80, 201);
+    background-color: orchid;
     border: 3px solid whitesmoke;
 }
 
@@ -33,7 +33,7 @@ h2 {
     padding-top: 10px;
     border-radius: 3px;
     text-align: center;
-    background-color: rgb(96, 95, 160);
+    background-color: powderblue;
 }
 
 .botao-recarregar {
@@ -41,8 +41,8 @@ h2 {
     margin: 0 auto; /* Centraliza o botão horizontalmente */
     margin-top: 20px;
     padding: 10px 20px; /* Adiciona preenchimento interno ao botão */
-    border: 2px solid rgb(245, 245, 245); /* Adiciona uma borda sólida de 2px com cor #333 */
-    background-color: rgb(95, 160, 122); /* Define a cor de fundo como CADETblue */
-    color: #fff; /* Define a cor do texto como branco */
+    border: 2px solid lemonchiffon; /* Adiciona uma borda sólida de 2px com cor #333 */
+    background-color: lightskyblue; /* Define a cor de fundo como CADETblue */
+    color: lightsalmon; /* Define a cor do texto como branco */
     cursor: pointer; /* Transforma o cursor em uma mãozinha quando hover */
 }
