@@ -14,7 +14,7 @@ h2 {
     max-width: 240px;
     padding: 20px;
     border-radius: 10px;
-    background-color: teal;
+    background-color: rgb(0, 19, 128)79, 128, 0);
     border: 3px solid whitesmoke;
 }
 
@@ -33,7 +33,7 @@ h2 {
     padding-top: 10px;
     border-radius: 3px;
     text-align: center;
-    background-color: cadetblue;
+    background-color: rgb(160, 134, 95);
 }
 
 .botao-recarregar {
@@ -42,7 +42,7 @@ h2 {
     margin-top: 20px;
     padding: 10px 20px; /* Adiciona preenchimento interno ao botão */
     border: 2px solid whitesmoke; /* Adiciona uma borda sólida de 2px com cor #333 */
-    background-color: cadetblue; /* Define a cor de fundo como CADETblue */
+    background-color: rgb(131, 95, 160); /* Define a cor de fundo como CADETblue */
     color: #fff; /* Define a cor do texto como branco */
     cursor: pointer; /* Transforma o cursor em uma mãozinha quando hover */
 }
