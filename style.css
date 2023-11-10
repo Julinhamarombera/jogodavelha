@@ -15,7 +15,7 @@ h2 {
     padding: 20px;
     border-radius: 10px;
     background-color: orchid;
-    border: 3px solid whitesmoke;
+    border: 3px solid blue;
 }
 
 .grid {
@@ -33,7 +33,7 @@ h2 {
     padding-top: 10px;
     border-radius: 3px;
     text-align: center;
-    background-color: powderblue;
+    background-color: gold;
 }
 
 .botao-recarregar {
@@ -43,6 +43,6 @@ h2 {
     padding: 10px 20px; /* Adiciona preenchimento interno ao botão */
     border: 2px solid lemonchiffon; /* Adiciona uma borda sólida de 2px com cor #333 */
     background-color: lightskyblue; /* Define a cor de fundo como CADETblue */
-    color: lightsalmon; /* Define a cor do texto como branco */
+    color: black; /* Define a cor do texto como branco */
     cursor: pointer; /* Transforma o cursor em uma mãozinha quando hover */
 }
