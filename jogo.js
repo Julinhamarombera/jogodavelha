@@ -6,3 +6,7 @@ let turno;
 
 const JOGADOR_X = "X";
 const JOGADOR_0 = "0";
+
+let Jogoacabou = false;
+
+document.addEventListener("click", (event) => {}
